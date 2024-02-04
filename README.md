@@ -1,2 +1,4 @@
 # Collaborative-Control-of-Wire-Controlled-Chassis-Subsystems-Based-on-Game-Theory
-A non-cooperative Nash game-based upper-level controller and a lower-level controller based on quadratic programming allocation algorithm are proposed and verified using CarSim and Simulink joint simulation. 
+①Using tools such as Carsim and Matlab/Simulink, a vehicle model with line control/drive and steering is established based on the B-class car prototype.
+②A non-cooperative Nash game-based upper-level controller and a lower-level controller based on quadratic programming allocation algorithm are proposed and verified using CarSim and Simulink joint simulation. The research focus is to explore the control effect of this control method under different working conditions, including 120km/h, road adhesion coefficient 0.85, and 60km/h, road adhesion coefficient 0.3. In the experiment, parameters such as the vehicle's center of mass side slip angle and yaw rate deviation will be evaluated, and the experimental results will be compared with those without control.
+
